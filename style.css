@@ -1,0 +1,29 @@
+body{
+  text-align:center; /*centers everything*/
+}
+
+h1{
+  padding:20px;
+}
+
+ul{
+  padding-top:10px;
+  padding-bottom:10px;
+}
+
+li{
+  list-style-type:none;
+  text-align:left;
+}
+
+.list-group-item{
+  word-wrap:break-word;
+}
+
+.remove{
+  float:right;
+}
+
+#error{
+  color:red;
+}
